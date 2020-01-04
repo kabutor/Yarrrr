@@ -16,4 +16,5 @@ com.boarding.apk - Android version
 Yarrr.zip        - Windows PC version
 
 v0.7.1 20200104 - Fixed rules link and document
+
 v0.7 20191218 - First Multiplayer release
