@@ -10,10 +10,10 @@ Game is based on my prototype on the BGG:
 
 https://boardgamegeek.com/boardgame/174745/boarding-pirate
 
-                      MD5SUM
-com.boarding.apk 79A649BA022773C339EDC8B7305B6E12
+                      
+com.boarding.apk - Android version
 
-Yarrr.zip        2F6E5DC9F0E6515BE6A5C9DD5A4A38B6
+Yarrr.zip        - Windows PC version
 
-
+v0.7.1 20200104 - Fixed rules link and document
 v0.7 20191218 - First Multiplayer release
